@@ -1,4 +1,4 @@
-package id
+package ranid
 
 import (
 	"math/rand"
